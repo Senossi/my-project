@@ -4,7 +4,7 @@ const app = express()
 
 app.get('/', (req,res)=>{
 
-    res.send('DevOps Project Running')
+    res.send('DevOps CI/CD Pipeline Working')
 
 })
 
